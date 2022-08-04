@@ -1,4 +1,4 @@
-**### Hey! This is Priyansu 👋**
+**Hey! This is Priyansu 👋**
 
 - 🔭 currently growing my knowledge in Data Structures and Algorithms
 - 📱 I am also intrested in Full stack Development and Data Science
