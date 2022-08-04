@@ -1,4 +1,4 @@
-**Hey! This is Priyansu 👋**
+<font size =4>**Hey! This is Priyansu 👋**</font>
 
 - 🔭 currently growing my knowledge in Data Structures and Algorithms
 - 📱 I am also intrested in Full stack Development and Data Science
