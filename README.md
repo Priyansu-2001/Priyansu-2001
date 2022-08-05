@@ -8,3 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyansu-bhoi-472256217/)
 - 😄 Pronouns: He/His
 
+
+### I :heart: GitHub :octocat:
+[<img src="https://github-profile-trophy.vercel.app/?username=madhur2000&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+
