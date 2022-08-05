@@ -12,7 +12,7 @@
 ### I :heart: GitHub :octocat:
 
 ![Priyansu's github stats](https://github-readme-stats.vercel.app/api?username=Priyansu-2001&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyansu-2001&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Priyansu-2001&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansu-2001&layout=compact&theme=vision-friendly-dark)
 
 
