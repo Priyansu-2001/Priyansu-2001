@@ -1,4 +1,4 @@
-# <font size =10>**Hey! This is Priyansu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32">**</font>
+# Hey! This is Priyansu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32">
 
 ### I am a final year Computer Science student at IGIT, Sarang<br>
 - 🔭 currently growing my knowledge in Data Structures and Algorithms
