@@ -16,3 +16,9 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansu-2001&layout=compact&theme=vision-friendly-dark)
 
 
+## Connect with me:
+
+<p align = "center">
+  
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/priyansu-bhoi-472256217/)
+
