@@ -12,5 +12,6 @@
 ### I :heart: GitHub :octocat:
 
 ![Priyansu's github stats](https://github-readme-stats.vercel.app/api?username=Priyansu-2001&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyansu-2001&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
