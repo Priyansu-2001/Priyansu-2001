@@ -11,6 +11,6 @@
 
 ### I :heart: GitHub :octocat:
 
-[Madhur's github stats](https://github-readme-stats.vercel.app/api?username=Priyansu-2001&show_icons=true&line_height=32&theme=radical)
+[Priyansu's github stats](https://github-readme-stats.vercel.app/api?username=Priyansu-2001&show_icons=true&line_height=32&theme=radical)
 
 
