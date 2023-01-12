@@ -11,7 +11,7 @@
 
 ### I :heart: GitHub :octocat:
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Priyansu-2001&theme=dark&hide_border=true)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Priyansu-2001&theme=dark&hide_border=true)
 
 **Languages:**  
 <br />
