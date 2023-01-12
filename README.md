@@ -8,9 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyansu-bhoi-472256217/)
 - 😄 Pronouns: He/His
 
-<a href="[https://codeforces.com/profile/sprinter2001]" target="_blank">
-  <img align="left" alt="sprinter2001's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Codeforces.svg" />
-</a>
+
 ### I :heart: GitHub :octocat:
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Priyansu-2001&theme=dark&hide_border=true)
