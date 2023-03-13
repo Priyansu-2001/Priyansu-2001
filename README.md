@@ -13,6 +13,26 @@
 - 😄 Pronouns: He/His
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Priyansu = {
+  code: ['Javascript', 'Typescript', 'C++'],
+  askMeAbout: ['Website Development', 'React'],
+  technologies: {
+    mobileApps: ['React-Native'],
+    frontEnd: {
+      js: ['React'],
+    },
+    backEnd: {
+      js: ['nodeJs', 'Express.js','Mongoose'],
+    },
+    databases: ['MongoDB', 'MySql'],
+    misc: ['Firebase'],
+  }
+};
+
+
 ### I :heart: GitHub :octocat:
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Priyansu-2001&theme=dark&hide_border=true)
