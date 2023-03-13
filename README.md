@@ -31,7 +31,7 @@ const Priyansu = {
     misc: ['Firebase'],
   }
 };
-
+```
 
 ### I :heart: GitHub :octocat:
 
