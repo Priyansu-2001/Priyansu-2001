@@ -1,6 +1,8 @@
 # Hey! This is Priyansu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32">
 <img align='right' src="https://media.giphy.com/media/3qYvlcgnIka1ayPbqB/source.gif" width="230">
 
+![Visitors: Priyansu-2001](https://visitor-badge.glitch.me/badge?page_id=Priyansu-2001.Priyansu-2001)
+
 ### I am a final year Computer Science student at IGIT, Sarang<br>
 - 🔭 currently growing my knowledge in Data Structures and Algorithms
 - 📱 I am also intrested in Full stack Development and Data Science
